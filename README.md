@@ -1,4 +1,4 @@
-#TIMETABLE MANAGEMENT SYSTEM
+# TIMETABLE MANAGEMENT SYSTEM
 ## Overview
 This project is a Timetable Management System designed to manage schedules for Admins, Teachers, and Students. The application uses binary files for secure data storage and supports code editors such as Code::Blocks and Visual Studio.
 
@@ -51,4 +51,4 @@ Students can perform the following actions:
 
 ## HOW THE APP LOOKS LIKE
 
-![alt text](https://github.com/mounbagna/e-library/blob/master/home_page1.png)
+![alt text](https://github.com/mounbagna/Time-Table-System/blob/main/TMS.png)
